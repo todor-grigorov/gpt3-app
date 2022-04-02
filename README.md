@@ -8,6 +8,7 @@ It is the third-generation language prediction model in the GPT-n series (and th
 For more information about GPT-3, see:
 
 https://en.wikipedia.org/wiki/GPT-3
+
 https://openai.com/blog/openai-api/
 
 -----------------------------------------------------------------------------------------------------------------------------------
